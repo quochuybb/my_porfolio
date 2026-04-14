@@ -1,0 +1,67 @@
+[
+    {
+        "id": "deep-dive-hook",
+        "title": "Deep Dive Hook",
+        "role": "Project Leader",
+        "date": "Dec 2025 - Present",
+        "description": "Windows API Hooking & Memory Analysis Tool for Unity IL2CPP using DLL injection and dynamic API resolution.",
+        "highlights": [
+            "Native C++ diagnostic tool with DLL injection",
+            "Real-time ImGui auto-inspector for debugging",
+            "Component-based search for GameObjects"
+        ],
+        "tech": [
+            "C++",
+            "Unity",
+            "IL2CPP",
+            "ImGui",
+            "DLL Injection"
+        ],
+        "demo": "https://byvn.net/yull",
+        "github": "",
+        "image": "/images/deep-dive-hook.png"
+    },
+    {
+        "id": "fight-game",
+        "title": "Fight Game",
+        "role": "Project Leader",
+        "date": "Mar 2025 - Present",
+        "description": "1v1 PvP shooter game with Client–Listen Server multiplayer using Unity Netcode.",
+        "highlights": [
+            "Server-authoritative mechanics with custom NetworkSerializable",
+            "Unity Gaming Services integration (Auth, Lobby, Relay)",
+            "Real-time state sync with NetworkVariables"
+        ],
+        "tech": [
+            "Unity",
+            "C#",
+            "Netcode",
+            "UGS",
+            "Relay"
+        ],
+        "demo": "https://byvn.net/WnK2",
+        "github": "",
+        "image": "/images/fight-game.png"
+    },
+    {
+        "id": "under-the-mask",
+        "title": "Under the Mask",
+        "role": "Game Developer",
+        "date": "Jan 2026",
+        "description": "A therapy doctor try to reveal patient's true feeling through branching dialogue system.",
+        "highlights": [
+            "Complex branching dialogue with conditional logic",
+            "UI/UX architecture with event-driven animations",
+            "Variable tracking for patient hidden states"
+        ],
+        "tech": [
+            "Unity",
+            "C#",
+            "Ink",
+            "DOTween"
+        ],
+        "demo": "",
+        "github": "",
+        "image": "/images/under-the-mask.png"
+    }
+]
